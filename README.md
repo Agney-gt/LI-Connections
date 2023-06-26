@@ -3,8 +3,6 @@ Automate Linkedin Cnnections
 
 Flask API Endpoint that reads data from google sheets, logs into linkedin and sends personalized connection requests and updates the connection status on the sheet.
 
-https://docs.google.com/spreadsheets/d/1-h5KRW62uOq_GIpzlEZXlwkXZo2XTuP2fJacRvO21_M/edit?usp=sharing
-
 Create a new github project and follow the below steps to set up the virtual machine.
 
 Cloud Virtual Machine Set Up - https://github.com/garywu/google-compute-engine-selenium
