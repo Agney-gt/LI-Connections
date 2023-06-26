@@ -30,7 +30,7 @@ Ensure the cookies are named correctly and present folder in which the script is
 
 
 
-https://github.com/Agney-gt/LI-Connections/assets/84612798/e5556ed0-08ca-49aa-957f-a5a0362f77f7
+
 
 
 
